@@ -2,6 +2,7 @@
 
 SineOsc::SineOsc(unsigned int sr)
 {
+    assert(sr > 0);
     samplerate = sr;
     wavetable.reset(new float[sr]);
 
@@ -20,6 +21,7 @@ SineOsc::~SineOsc()
 
 void SineOsc::setSampleRate(unsigned int sr)
 {
+    assert(sr > 0);
     samplerate = sr;
     wavetable.reset(new float[sr]);
 
