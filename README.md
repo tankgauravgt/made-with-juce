@@ -3,7 +3,7 @@ This repository contains different VST plugins for DAW softwares.
 
 # 01. Gain Plugin:
 
-    - VST, VST3 Versions.
+    - VST and VST3 Version of plugin.
     - Parameters can be controlled by automation clips if host supports.
     - Parameter value saved when host saves project.
 
