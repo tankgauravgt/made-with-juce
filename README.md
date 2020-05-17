@@ -10,6 +10,6 @@
 # Sine Oscillator:
 
     - Realtime Synthesis based on MIDI input.
-    - All H/W and S/W (Virtual MIDI) devices supported.
+    - All H/W and S/W (Virtual) MIDI devices supported.
     - Wave smoothing using ASDR Envelope (no control support).
     - Source for VST and VST3.
