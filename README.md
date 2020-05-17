@@ -1,12 +1,15 @@
-# made-with-juce
-This repository contains different VST plugins for DAW softwares.
+<h1> <img height="25px" src="https://docs.juce.com/juce-logo.svg"> Made With JUCE </img> </h1>
+    This repository contains different VST plugins for DAW softwares.
 
-# 01. Gain Plugin:
+# Gain Plugin:
 
-    - VST and VST3 Version of plugin.
     - Parameters can be controlled by automation clips if host supports.
     - Parameter value saved when host saves project.
+    - source code for VST and VST3.
 
-# 02. Sine Generator:
+# Sine Generator:
 
-    
+    - Realtime Synthesis based on MIDI.
+    - All H/W and S/W (Virtual MIDI) devices supported.
+    - Wave smoothing using ASDR Envelope (no control support).
+    - Source for VST and VST3.
