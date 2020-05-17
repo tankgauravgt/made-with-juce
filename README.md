@@ -7,9 +7,9 @@
     - Parameter value saved when host saves project.
     - source code for VST and VST3.
 
-# Sine Generator:
+# Sine Oscillator:
 
-    - Realtime Synthesis based on MIDI.
+    - Realtime Synthesis based on MIDI input.
     - All H/W and S/W (Virtual MIDI) devices supported.
     - Wave smoothing using ASDR Envelope (no control support).
     - Source for VST and VST3.
